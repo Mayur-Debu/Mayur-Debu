@@ -2,7 +2,7 @@
 <h3 align="center">"Simplicity is the soul of efficiency."</h3>
 
 <p align="center">
-<img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47bb7cefa88f5fbe58015cf75ff32f3beb84de35c4&rid=giphy.gif" width="600" height="500"/>
+<img src="https://media4.giphy.com/media/3ohs7TxkkgBkOSgh6E/giphy.gif?cid=ecf05e4787cd25f316ab75fe07a117ec5cf5381a9d82b94c&rid=giphy.gif" width="500" height="600"/>
 </p>
 
 - 🔭 I’m currently working on [Kissing Bug](https://github.com/Mayur-Debu/Kissing-Bug)
