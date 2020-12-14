@@ -2,7 +2,7 @@
 <h3 align="center">"Simplicity is the soul of efficiency."</h3>
 
 <p align="center">
-<img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="800" height="600"/>
+<img src="https://gph.is/g/aK7bk5e" width="800" height="600"/>
 </p>
 
 - 🔭 I’m currently working on [Kissing Bug](https://github.com/Mayur-Debu/Kissing-Bug)
