@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Manohar Patil</h1>
 <h3 align="center">"Simplicity is the soul of efficiency."</h3>
 
-<img src="https://media0.giphy.com/media/12BYUePgtn7sis/giphy.gif?cid=ecf05e479ji4fmrzpp1k02jwxnzleuilyoc4w0zd5wlyu1ii&rid=giphy.gif" width="400" height="400" display=inline-block/> 
+<center><img src="https://media0.giphy.com/media/12BYUePgtn7sis/giphy.gif?cid=ecf05e479ji4fmrzpp1k02jwxnzleuilyoc4w0zd5wlyu1ii&rid=giphy.gif" width="400" height="400"/></center>
 
 - 🔭 I’m currently working on [Kissing Bug](https://github.com/Mayur-Debu/Kissing-Bug)
 
