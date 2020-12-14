@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayur Manohar Patil</h1>
+<h1 align="center">Hi 👋, I'm Smart Monk-E</h1>
 <h3 align="center">"Simplicity is the soul of efficiency."</h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
+<p align="left" width="20"> <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
