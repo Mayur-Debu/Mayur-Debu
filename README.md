@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Manohar Patil</h1>
 <h3 align="center">"Simplicity is the soul of efficiency."</h3>
 
-<center><img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="400" height="400"/></center>
+<center><img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="800" height="600"/></center>
 
 - 🔭 I’m currently working on [Kissing Bug](https://github.com/Mayur-Debu/Kissing-Bug)
 
