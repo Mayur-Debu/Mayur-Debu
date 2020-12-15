@@ -1,3 +1,6 @@
+<style>
+  h1.color='red'
+ </style>
 <h1 align="center">Hi 👋, I'm Smart Monk-E</h1>
 <h3 align="center">"Simplicity is the soul of efficiency."</h3>
 
