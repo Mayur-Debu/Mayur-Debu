@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋 I'm Smart Monk-E</h2>
 <p align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/59d39a7037c581d0d49cd94f/1565632959974-TMKJISKJMO5ZF8CUIP7B/ke17ZwdGBToddI8pDm48kDAv91l_EVpAtt3T82Wm1m9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEcs4OJ1MUiSygP0U4z2bUeJj0Nr1n48rGt1cKo_lK-mJuG45vQwBxdpDrCGUSSl5w/Monkey.gif" width="400" height="300"/>
+<img src="https://github.com/Mayur-Debu/Mayur-Debu/blob/main/9b315e7c4430b0717f17b17f35b0b372.gif" width="400" height="300"/>
 </p>
 <h4 align="center">"By trying often the monkey learns to jump from the tree."</h4>
 
