@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Kissing Bug](https://github.com/Mayur-Debu/Kissing-Bug)
 
-- 🌱 I’m currently learning **React.js, Node.js, Gatsby, Machine Learning.**
+- 🌱 I’m currently learning **React.js, Node.js, Gatsby.js, Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayur-Debu](https://github.com/Mayur-Debu)
 
