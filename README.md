@@ -27,6 +27,7 @@
 </p>
 
 ***
+<h3 align="left">Insight:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur-debu&show_icons=true&locale=en&layout=compact" alt="mayur-debu" /></p>
 
