@@ -4,12 +4,12 @@
 </p>
 <h4 align="center">"By trying often the monkey learns to jump from the tree."</h4>
 
-```
+
 - 🔭 I’m currently working on [Kissing Bug](https://github.com/Mayur-Debu/Kissing-Bug)
 
-- 🌱 I’m currently learning - React.js, Node.js, Gatsby.js, Machine Learning.
+- 🌱 I’m currently learning - React.js,  Node.js,  Gatsby.js,  Machine Learning.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mayur-Debu](https://github.com/Mayur-Debu)
+- 👨‍💻 All of my projects are available at [" Mayur's Portfolio "](https://mayur-debu.github.io/Portfolio-Website/)
 
 - 💬 Ask me about - python, Web-Dev.
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact - “ When to use iterative development? You should use iterative development only on projects that you want to succeed. ” 
 
-```
+
 
 *** 
 
