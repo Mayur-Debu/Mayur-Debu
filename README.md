@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋 I'm Smart Monk-E 🐒</h2>
 <p align="center">
+<kbd>
 <img src="https://github.com/Mayur-Debu/Mayur-Debu/blob/main/9b315e7c4430b0717f17b17f35b0b372.gif" width="380" height="300"/>
+ </kbd>
 </p>
 <h4 align="center">"By trying often the monkey learns to jump from the tree."</h4>
 
